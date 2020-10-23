@@ -1,7 +1,9 @@
 h1 {
-    color: rgb(250, 250, 255);
-    background-color: rgb(25, 25, 117);
-    text-align: center
+    color: rgb(233, 232, 230);
+    background-color: rgb(10, 10, 75);
+    text-align: center;
+    text-decoration: coral;
+    margin: 5px;
   }
   h2 {
     font-style: italic;
